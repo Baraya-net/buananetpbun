@@ -1,4 +1,4 @@
 User-agent: *
 allow: /
 
-Sitemap: https://buananetpbun.github.io/mikrotik/sitemap.xml
+Sitemap: https://baraya-net.github.io/mikrotik/sitemap.xml
