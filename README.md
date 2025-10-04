@@ -12,10 +12,6 @@ QoS and Traffic Control: The site includes tools for Quality of Service (QoS) se
 
 These resources make Buananetpbun.github.io an invaluable tool for both novice and experienced network administrators looking to streamline their MikroTik RouterOS configurations.
 
-For more Premium access to these tools, you can visit Buananet.com.
-- ⚡ Github Page : https://buananetpbun.github.io
-- ⚡ Premium site : https://buananet.com
-
 ## <b>Term and Condition</b><br>
 Buananetpbun.github.io is open code in the form of CSS and HTML, but not for Javascript (js) because it has been encrypted and is not yet fully open for public republishing because buananetpbun.github.io has turned into a paid site at buananet.com, You may study the Source Code privately but are not permitted to redistribute it for free or resell it without the owner's permission.
 
