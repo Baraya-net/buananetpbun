@@ -264,7 +264,7 @@ const showHomepage = () => {
 };
 const signOut = () => {
   firebase.auth().signOut().then(function () {
-    location.href = "https://buananetpbun.github.io";
+    location.href = "https://baraya-net.github.io/";
   })["catch"](function (_0x3f212e) {
     Alert.render("❌ error signing out, check network connection");
   });
